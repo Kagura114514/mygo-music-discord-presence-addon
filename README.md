@@ -1,4 +1,4 @@
-# MyGo Music Discord 状态
+# MyGo Music Discord 状态显示
 
 [简体中文](README.md) | [English](README.en.md)
 
