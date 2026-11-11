@@ -1,0 +1,24 @@
+{
+  "id": "mygo-discord-presence",
+  "name": "MyGo Discord 状态",
+  "version": "0.1.7",
+  "minAppVersion": "0.1.20",
+  "main": "index.js",
+  "playback": "stream",
+  "permissions": {
+    "process": ["powershell.exe"]
+  },
+  "settings": [
+    {
+      "key": "discordClientId",
+      "label": "Discord Application ID",
+      "help": "在 Discord Developer Portal 创建应用后填写 Application ID。"
+    }
+  ],
+  "navigation": [
+    { "title": "状态同步", "builtin": "home" }
+  ]
+}
+
+
+
